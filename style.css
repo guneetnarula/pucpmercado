@@ -1,3 +1,15 @@
+@import url('https://fonts.googleapis.com/css2?family=Lato:ital,wght@0,400;0,700;1,400&family=Oswald:wght@500&display=swap');
 body {
   padding:0;
+  font-family: 'Lato', sans-serif;
+}
+h1,h2,h3,h4,h5,h6 {
+  font-family: 'Oswald', sans-serif;
+}
+.blue-bg {
+  background-color: #003C7A;
+  color: white;
+}
+header {
+  padding:120px 0;
 }
